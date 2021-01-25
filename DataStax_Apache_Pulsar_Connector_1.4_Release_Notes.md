@@ -14,13 +14,14 @@ This is the initial public release of DataStax Apache Pulsar Connector. Use the 
 ## GitHub repo
 ​
 Your feedback and contributions are welcome! Refer to the open-source resources in the [https://github.com/datastax/pulsar-sink](datastax/pulsar-sink) GitHub repo.
-​
+
 To contribute, fork the repo and submit Pull Requests (PRs) for review.
 ​
 ## Installation
 ​
 The cassandra-enhanced-pulsar-connnector-1.4.0.tar.gz tarball is available on the DataStax [Downloads](https://downloads.datastax.com/#apc) site.
 ​
+
 See the DataStax Apache Pulsar Connector [installation](https://docs.datastax.com/en/pulsar-connector/1.4/pulsarInstall.html) topic for details.
 ​
 ## Documentation
