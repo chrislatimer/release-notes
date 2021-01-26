@@ -11,6 +11,8 @@ Luna Streaming Distribution 1.0.x is compatible with Apache Pulsar&trade; 2.6.2.
    * DataStax Pulsar Heartbeat 1.0.0
    * DataStax Apache Pulsar Connector 1.4.0
    * DataStax Burnell 1.0.0
+   
+*Note:* The DataStax Luna Streaming Distribution is designed for Java 11. However, because the product releases Docker images, you do not need to install Java (8 or 11) in advance. Java 11 is bundled in the Docker image.   
 
 ## Luna Streaming Distribution 1.0.0
 
